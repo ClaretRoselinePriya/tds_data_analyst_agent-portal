@@ -1,0 +1,4 @@
+Respond with a JSON array of answers.
+1) How many items are there?
+2) What is the correlation between A and B?
+3) Draw a scatterplot of A vs B with a regression line. Return a base64 data URI under 100,00 bytes.
